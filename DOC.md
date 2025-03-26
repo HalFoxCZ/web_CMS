@@ -77,6 +77,33 @@ Only offers from selected section are displayed in the dropdown menu.
 </details>
 
 
+<details>
+
+<summary>
+
+## TOS manager </summary>
+
+In this section, you can edit your TOS page. 
+
+It works same as the previous Sections & Offers manager, but there are extra features.
+<br>
+<br>
+How to corectly use TOS manager:
+
+> All TOS are united and grouped by name. 
+>
+> You have to allways declare a new TOS group by creating a following these instructions:
+> > - First to declare new group, create a new TOS
+> > - in the name, use your group name and add `_title` to end of it (for example `General_title`)
+> > - For text, write what title you want this group to have (for example `General`) and but it in H3 tag (`<h3>General</h3>`).
+> > - to add new TOS to  that group, set the name to Group name and <br> add some text after soo you can identifie it (for example `General_1`)
+> > - <b>IMPROTANT</b> - do NOT use as identifier name same as another group, it might break the system <br> (I did not test it, but I doubt it would work correctly)
+> > - Then just add your TOS text as usual for offer.  
+
+
+</details>
+
+
 
 
 
