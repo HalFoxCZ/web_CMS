@@ -98,7 +98,7 @@ How to corectly use TOS manager:
 > > - For text, write what title you want this group to have (for example `General`) and but it in H3 tag (`<h3>General</h3>`).
 > > - to add new TOS to  that group, set the name to Group name and <br> add some text after soo you can identifie it (for example `General_1`)
 > > - <b>IMPROTANT</b> - do NOT use as identifier name same as another group, it might break the system <br> (I did not test it, but I doubt it would work correctly)
-> > - Then just add your TOS text as usual for offer.  
+> > - Then just add your TOS text as usual for offer.  and as name allways set coresponding Group name.
 
 
 </details>
