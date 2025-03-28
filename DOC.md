@@ -124,6 +124,14 @@ I 'ain't doing a sorter for that when you can use this ~~bug~~ *feature*
 
 ## Gallery and images </summary>
 
+In this section, you can add images to your gallery. <br>
+
+> Uploading image
+> > - To upload your image, just upload it into the field (there is a <button>Browse...</button> button)
+> > - After that, you can choose in which section your image belongs. You can change that later. The default is the first section.
+> > - Add to your image any text you want to have it, like who's OC it is, what type it is <br> (it will also display section name, soo no need to do that, its usefull for YCH names and etc.)
+> > - Then, just click the <button>Upload Image</button> button, and you are done. Your image is now uplaoded to your gallery.
+
 </details>
 
 
