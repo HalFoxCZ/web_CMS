@@ -20,7 +20,7 @@ default styles to choose from, depending on my time and will to live.
 > - Select a setting value you want to edit from the dropdown menu.
 > - It's value will be displayed in box under.
 > - Now you can edit it almost freely. If its a boolean value, you can only switch between True and False option.
-> - After you finish editing the value, press the <button>Save</button> button. You will be informed if the action was performed correctly.
+> - After you finish editing the value, press <button>Save</button>. You will be informed if the action was performed correctly.
 > 
 > All settings used now:
 >
@@ -59,17 +59,17 @@ Only offers from selected section are displayed in the dropdown menu.
 > - Editing:
 > > - Select a section or offer you want to edit from dropdown menu.
 > > - After you select the section or offer , you can edit its parametrs.
-> > - When you done, click the <button>Rename section</button> or <button>Update offer</button> button depending on what you editing.
+> > - When you done, click <button>Rename section</button> or <button>Update offer</button> depending on what you editing.
 >
 > - Adding:
 > > - Type parametrs for new section or offer in bottom text pannel.
-> > - When you done, click the <button>Add section</button> or <button>Add offer</button> button depending on what you adding.
+> > - When you done, click <button>Add section</button> or <button>Add offer</button> depending on what you adding.
 >
 > - Deleting:
 > > - Select a section or offer you want to delete.
-> > - After that, click the <button>Delete section</button> or <button>Delete offer</button> button depending on what you want to delete.
+> > - After that, click <button>Delete section</button> or <button>Delete offer</button> depending on what you want to delete.
 > > - You will be promted if you really want to delete it.
-> > - If you do, click the <button>yes</button> button, otherwise click the <button>cancel</button> button.
+> > - If you do, click <button>yes</button>, otherwise click <button>cancel</button>.
 
 For offers, you can put the price to 0 to only add text, without any price attached. 
 <br> <br>
@@ -127,11 +127,18 @@ I 'ain't doing a sorter for that when you can use this ~~bug~~ *feature*
 In this section, you can add images to your gallery. <br>
 
 > Uploading image
-> > - To upload your image, just upload it into the field (there is a <button>Browse...</button> button)
+> > - To upload your image, just upload it into the field (there is a <button>Browse...</button>)
 > > - After that, you can choose in which section your image belongs. You can change that later. The default is the first section.
 > > - Add to your image any text you want to have it, like who's OC it is, what type it is <br> (it will also display section name, soo no need to do that, its usefull for YCH names and etc.)
-> > - Then, just click the <button>Upload Image</button> button, and you are done. Your image is now uplaoded to your gallery.
-
+> > - Then, just click the <button>Upload Image</button>, and you are done. Your image is now uplaoded to your gallery.
+>
+> Updating and deleting images.
+> > - First, select your image you want to edit/delete.
+> > > - For deleting, just click <button>Delete Image</button>. 
+> > > - You will be promted if you really want to do this. Proceed with that you are done.
+> > - You cant really update the image itself, you need to delete it and upload new version for the image update.
+> > - However, you can edit its text, and it's coresponding section. 
+> > - Just edit what you want, and click <button>Update image</button>
 </details>
 
 
