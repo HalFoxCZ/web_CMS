@@ -77,6 +77,8 @@ It is kinda scuffed rn, because I didnt really thought how the pricelist was ini
 
 option for just adding "comments" (like that additional character price etc.)
 
+You can figure it out how to make it to your liking. If anything just text me somewhere. I'll try help you
+
 <br>
 <br>
 Gonna work on that later. Maybe. Probably yes but nobody know.
@@ -106,8 +108,14 @@ How to corectly use TOS manager:
 > > - For text, write what title you want this group to have (for example `General`) and but it in H3 tag (`<h3>General</h3>`).
 > > - to add new TOS to  that group, set the name to Group name and <br> add some text after soo you can identifie it (for example `General_1`)
 > > - <b>IMPROTANT</b> - do NOT use as identifier name same as another group, it might break the system <br> (I did not test it, but I doubt it would work correctly)
-> > - Then just add your TOS text as usual for offer, and as name allways set coresponding Group name.
+> > - Then just add your TOS text as usual for offer, and as name allways set coresponding Group name. 
 
+<b>IF YOU DELETE THE GROUP'S TITLE, IT WONT SHOW ANY OF ITS CONTENT. </b>
+
+If you want to bring back the group, just create new TOS with the previous group name. <br> 
+It will again bring itself above the rest of groups content, but it will be on the bottom, <br>
+soo you can use that to your advantage and re-order your tos.<br><br>d
+I 'ain't doing a sorter for that when you can use this ~~bug~~ *feature*
 
 </details>
 
