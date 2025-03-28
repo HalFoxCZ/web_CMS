@@ -119,6 +119,12 @@ I 'ain't doing a sorter for that when you can use this ~~bug~~ *feature*
 
 </details>
 
+<details>
+<summary> 
+
+## Gallery and images </summary>
+
+</details>
 
 
 
