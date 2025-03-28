@@ -71,7 +71,15 @@ Only offers from selected section are displayed in the dropdown menu.
 > > - You will be promted if you really want to delete it.
 > > - If you do, click the <button>yes</button> button, otherwise click the <button>cancel</button> button.
 
+For offers, you can put the price to 0 to only add text, without any price attached. 
+<br> <br>
+It is kinda scuffed rn, because I didnt really thought how the pricelist was initialy constructed, and didnt add
 
+option for just adding "comments" (like that additional character price etc.)
+
+<br>
+<br>
+Gonna work on that later. Maybe. Probably yes but nobody know.
 
 
 </details>
