@@ -114,7 +114,7 @@ How to corectly use TOS manager:
 
 If you want to bring back the group, just create new TOS with the previous group name. <br> 
 It will again bring itself above the rest of groups content, but it will be on the bottom, <br>
-soo you can use that to your advantage and re-order your tos.<br><br>d
+soo you can use that to your advantage and re-order your tos.<br><br>
 I 'ain't doing a sorter for that when you can use this ~~bug~~ *feature*
 
 </details>
