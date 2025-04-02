@@ -9,9 +9,14 @@ body {
     color: var(--color-text);
     margin: 0;
     padding: 0;
+    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 10fr;
+    grid-template-rows: 1fr;
 }
 
 .sidebar_wrapper {
+    grid-area: 0 / 0;
     display: flex;
     flex-direction: column;
     width: max-content;
