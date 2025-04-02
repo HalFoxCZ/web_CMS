@@ -17,3 +17,8 @@ body {
     min-height: calc(100vh - 20px);
     padding: 10px;
 }
+
+
+.settings_button, .section_button, .tos_button, .gallery_button, .gallery_button2, .doc_button {
+    background-color: var(--button-background);
+}
