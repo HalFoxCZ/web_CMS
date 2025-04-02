@@ -3,6 +3,7 @@
     
 }
 
+
 body {
     background-color: var(--color-background);
     color: var(--color-text);
@@ -20,4 +21,9 @@ body {
 
 .selected {
     background-color: var(--button-background);
+}
+
+
+md-block {
+    clear: all;
 }
