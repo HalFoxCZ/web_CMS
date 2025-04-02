@@ -19,10 +19,3 @@ body {
 }
 
 
-.settings_button, .sections_button, .tos_button, .gallery_button, .gallery_button2, .doc_button {
-    background-color: var(--color-background);
-}
-
-.settings_button:hover, .section_button:hover, .tos_button:hover, .gallery_button:hover, .gallery_button:hover2, .doc_button:hover {
-    background-color: var(--button-background);
-}
