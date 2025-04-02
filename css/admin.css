@@ -19,7 +19,7 @@ body {
 }
 
 
-.settings_button, .section_button, .tos_button, .gallery_button, .gallery_button2, .doc_button {
+.settings_button, .sections_button, .tos_button, .gallery_button, .gallery_button2, .doc_button {
     background-color: var(--color-background);
 }
 
