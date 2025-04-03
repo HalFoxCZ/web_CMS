@@ -6,4 +6,4 @@ used for pricelists.
 
 
 
-[Here](css) is the styles available (except the admin.css XDD you 'aint using that shit as style for main website.)
+[Here](css/index.php) is the styles available (except the admin.css XDD you 'aint using that shit as style for main website.)
